@@ -14,7 +14,7 @@ modules:
     height: 2
   # Swap some modules to fix metal2/metal3 density issues
   - name: tt_tinyQV
-    x: 10
+    x: 11
     y: 16
     width: 5
     height: 4
