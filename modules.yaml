@@ -12,3 +12,29 @@ modules:
     y: 10
     width: 1
     height: 2
+  # Swap some modules to fix metal2/metal3 density issues
+  - name: tt_tinyQV
+    x: 11
+    y: 16
+    width: 5
+    height: 4
+  - name: rejunity_atari2600
+    x: 0
+    y: 14
+    width: 6
+    height: 2
+  - name: rejunity_lgn_mnist
+    x: 9
+    y: 5
+    width: 4
+    height: 4
+  - name: izh_neuron_lite
+    x: 11
+    y: 10
+    width: 1
+    height: 1
+  - name: blptrk_weaving01
+    x: 6
+    y: 17
+    width: 1
+    height: 1
