@@ -1,18 +1,24 @@
-# Chip map
+# Chip renders
 
-![Full chip map](images/shuttle_map.svg){width=12cm}
+## Chip layout map
 
-```{=latex}
-\pagebreak
-```
-
-![GDS render](images/full_gds.png){width=12cm}
+![Full chip map](images/shuttle_map.svg){width=15cm}
 
 ```{=latex}
 \pagebreak
 ```
 
-![Logic density (local interconnect layer)](images/logic_density.png){width=12cm}
+## Full chip render
+
+![GDS render](images/full_gds.png){width=17cm}
+
+```{=latex}
+\pagebreak
+```
+
+## Logic density view
+
+![Logic density (local interconnect layer)](images/logic_density.png){width=17cm}
 
 ```{=latex}
 \pagebreak
